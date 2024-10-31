@@ -1,0 +1,14 @@
+{
+  "name": "plannedsoft-core",
+  "version": "1.0.1",
+  "private": true,
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-compress": "^1.6.0",
+    "grunt-string-replace": "^1.2.1",
+    "grunt-http-upload": "^0.3.2",
+    "grunt-wp-i18n": "^1.0.0",
+    "matchdep": "^2.0.0"
+  }
+}
